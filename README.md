@@ -14,7 +14,15 @@ This project is an AI-powered healthcare assistant developed based on the MIMIC 
        alt="UI"
        width="590"/>
 </p>
-<p align="center"><em>Figure 1. Main Chat UI</em></p>
+<p align="center"><em>Figure 2. Main Chat UI</em></p>
+
+## Overall Architecture
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d0de20bc-41cd-41f9-9819-3ae61c2011a2"
+       alt="architecture"
+       width="700"/>
+</p>
+<p align="center"><em>Figure 3. System Architecture</em></p>
 
 
   
